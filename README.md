@@ -29,6 +29,12 @@ THEN the text for that event is saved in local storage
 and as a user when I refresh the page,
 THEN the saved events persist.
 
+**version 1.3**
+color for the time blocks:
+                       Red= past 
+                       yellow= Present
+                       Green= Future
+
 ---
 ## License & copyright
   "(c)" shah ahque , Trilogy edu 
